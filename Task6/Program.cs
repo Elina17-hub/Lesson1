@@ -25,5 +25,10 @@ int secondNumber = Convert.ToInt32(Console.ReadLine());
 if (firstNumber == secondNumber * secondNumber)
 // Является ли первое число квадратом второго?
 {
-    Console.WriteLine("Да, " + firstNumber + " является квадратом secondNumber " + secondNumber);
+    Console.WriteLine("Да, " + firstNumber + " является квадратом от " + secondNumber);
+    // Да, 25 является квадратом от 5
+}
+else // все оставшиеся случаи, что первое число Не являются квадратом второго числа
+{
+   Console.WriteLine("Нет, " + firstNumber + " Не является квадратом от " + secondNumber); 
 }
