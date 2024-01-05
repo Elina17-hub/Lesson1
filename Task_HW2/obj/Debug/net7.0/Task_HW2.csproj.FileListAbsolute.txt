@@ -1,0 +1,14 @@
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW2/obj/Debug/net7.0/Task_HW2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW2/obj/Debug/net7.0/Task_HW2.AssemblyInfoInputs.cache
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW2/obj/Debug/net7.0/Task_HW2.AssemblyInfo.cs
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW2/obj/Debug/net7.0/Task_HW2.csproj.CoreCompileInputs.cache
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW2/bin/Debug/net7.0/Task_HW2
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW2/bin/Debug/net7.0/Task_HW2.deps.json
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW2/bin/Debug/net7.0/Task_HW2.runtimeconfig.json
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW2/bin/Debug/net7.0/Task_HW2.dll
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW2/bin/Debug/net7.0/Task_HW2.pdb
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW2/obj/Debug/net7.0/Task_HW2.dll
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW2/obj/Debug/net7.0/refint/Task_HW2.dll
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW2/obj/Debug/net7.0/Task_HW2.pdb
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW2/obj/Debug/net7.0/Task_HW2.genruntimeconfig.cache
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW2/obj/Debug/net7.0/ref/Task_HW2.dll
