@@ -40,25 +40,47 @@
 // Console.WriteLine(max);
 
 // задача, обнулить четные значения в массиве
-void ZeroEvenElements(int[] arr)
+// void ZeroEvenElements(int[] arr)
+// {
+//     //переберем все элементы массива через цикл for
+//     for (int i = 0; i < arr.Length; i++)
+//     {
+//         if (arr[i] % 2 == 0)
+//         {
+//             arr[i] = 0;
+//         }
+//     }
+// }
+
+// void PrintArray(int[] arr)
+// {
+//     foreach (int e in arr)
+//     {
+//         Console.Write($"{e} ");
+//     }
+// }
+// int[] array= { 1, 5, 4, 8, 6, 10 };
+// ZeroEvenElements(array);
+// PrintArray(array);
+
+//Задайте массив на 10 целых чисел. Напишите программу, которая определяет количество чётных чисел в массиве.
+
+//Начальные условия:
+
+//int[] array = {2, 5, 2, 3, 6, 3, 7, 8, 2, 4}; // Создание массива
+
+int[] numbers = { 1, 5, 8, 4, 9, 70, 4 };
+int cnt = 0;
 {
-    //переберем все элементы массива через цикл for
-    for (int i = 0; i < arr.Length; i++)
+    for (int i = 0; i < numbers.Length; i++)
     {
-        if (arr[i] % 2 == 0)
+        if (numbers[i] % 2 == 0)
         {
-            arr[i] = 0;
+            cnt++;
         }
     }
+
+
+    Console.WriteLine($"Количество четных чисел: {cnt}");
 }
 
-void PrintArray(int[] arr)
-{
-    foreach (int e in arr)
-    {
-        Console.Write($"{e} ");
-    }
-}
-int[] array= { 1, 5, 4, 8, 6, 10 };
-ZeroEvenElements(array);
-PrintArray(array);
