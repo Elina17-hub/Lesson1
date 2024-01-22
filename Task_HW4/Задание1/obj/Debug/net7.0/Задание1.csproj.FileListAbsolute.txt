@@ -1,0 +1,14 @@
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW4/Задание1/bin/Debug/net7.0/Задание1
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW4/Задание1/bin/Debug/net7.0/Задание1.deps.json
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW4/Задание1/bin/Debug/net7.0/Задание1.runtimeconfig.json
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW4/Задание1/bin/Debug/net7.0/Задание1.dll
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW4/Задание1/bin/Debug/net7.0/Задание1.pdb
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW4/Задание1/obj/Debug/net7.0/Задание1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW4/Задание1/obj/Debug/net7.0/Задание1.AssemblyInfoInputs.cache
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW4/Задание1/obj/Debug/net7.0/Задание1.AssemblyInfo.cs
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW4/Задание1/obj/Debug/net7.0/Задание1.csproj.CoreCompileInputs.cache
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW4/Задание1/obj/Debug/net7.0/Задание1.dll
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW4/Задание1/obj/Debug/net7.0/refint/Задание1.dll
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW4/Задание1/obj/Debug/net7.0/Задание1.pdb
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW4/Задание1/obj/Debug/net7.0/Задание1.genruntimeconfig.cache
+/Users/Elina/Desktop/01_CSHARP/Lesson1/Task_HW4/Задание1/obj/Debug/net7.0/ref/Задание1.dll
